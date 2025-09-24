@@ -1,0 +1,19 @@
+var fizzBuzz = function(n) {
+    const arr = []
+    const push = (arg) => arr.push(arg)
+    for( let i=1; i<=n; i++){
+	if(i%3 === 0 && i%5 ===0) {
+            push('FizzBuzz');
+        } else if (i%3 ===0){
+            push('Fizz');
+        } else if (i%5 === 0){
+            push('Buzz')
+        } else {
+            push(i.toString())
+        }
+    }
+    return arr
+}
+
+input 15
+output ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
