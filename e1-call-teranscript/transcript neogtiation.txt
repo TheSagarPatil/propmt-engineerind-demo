@@ -1,0 +1,22 @@
+Client (Mr. Sharma): Hello, this is Sharma from Zenith Finance. We’re looking to upgrade our legacy Java EE system. I’ve been told your firm has handled similar migrations.
+
+Call Rep (Raj): Absolutely, Mr. Sharma. Thanks for reaching out. Could you share a bit about what challenges you’re facing with the current system?
+
+Mr. Sharma: Mainly performance and scalability. Our transaction volumes are growing, but Java EE monoliths aren’t handling them well. We’re exploring Spring Boot for microservices and Kafka for messaging.
+
+Raj: That’s exactly where these technologies shine. For a system of your size, our rough estimate is around ₹55–60 lakhs for migration and Kafka implementation spread over four to five months.
+
+Mr. Sharma: That figure is higher than what we budgeted. We were hoping closer to ₹40 lakhs.
+
+Raj: I understand. The bulk of the cost is in the Kafka infrastructure setup and dedicated support. One way to optimize is by having a hybrid model—we handle the heavy lifting while training your in-house team. That could bring the cost closer to ₹45 lakhs.
+
+Mr. Sharma: That’s more reasonable, but I’m concerned about hidden costs—like post-migration support.
+
+Raj: Good point. Our proposal includes six months of support. Beyond that, you can choose a standard annual plan instead of a premium one, saving about 25%. Would that help with your budget planning?
+
+Mr. Sharma: Possibly. Let me present this adjusted estimate to my leadership. Then we can reconvene.
+
+Raj: Sounds good. I’ll send you the revised breakdown with the hybrid approach within the day.
+
+------------------
+END OF CALL

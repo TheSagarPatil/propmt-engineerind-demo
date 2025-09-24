@@ -1,0 +1,19 @@
+from attached transcripts, give me representative name, customer name, customer company, technology stack if mentioned, and what status of conversation.
+in following format 
+[{
+representative: <representative name>,
+customerName: <customer name>,
+logo: <customerCompany>,
+techStack: [tech stack as a string array],
+status: <status of conversation defined below>,
+existingCustomer: <if customerCompany already exists on records>
+}, ]
+
+status of conversation can be: 
+information gathering: customer provides information about issues they are facing. , 
+customer qualification: does the customer have resources like budget, skilled manpower to maintain ? etc., 
+solution offering: what solution can we offer?, 
+negotiation: what could be the price? negotiations on scope or pricing., 
+agreement: finalizing the terms of solution and service.
+
+existing customersCompany are ['Zenith Finance', 'Charlie logistics'];

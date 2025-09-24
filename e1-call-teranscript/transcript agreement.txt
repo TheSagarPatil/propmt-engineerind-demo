@@ -1,0 +1,18 @@
+Client (Mr. Mehta): Hello, this is Mehta from Alpha Logistics. We’re calling regarding your proposal to modernize our Java EE platform. Our committee reviewed it.
+
+Call Rep (Raj): Hello, Mr. Mehta, glad to hear from you. What’s the decision from your team?
+
+Mr. Mehta: We agree with your phased migration plan—starting with smaller internal services, then moving to customer-facing ones. The inclusion of Kafka for real-time inventory updates is exactly what we were looking for.
+
+Raj: Great to hear. Just to reiterate: the migration, Kafka deployment, and developer onboarding are estimated at ₹48 lakhs, inclusive of six months of managed support.
+
+Mr. Mehta: Yes, and that’s within our approved budget. We compared with another vendor, but they didn’t offer the same level of architectural guidance, so we’re moving ahead with you.
+
+Raj: Excellent. Next step is signing the service contract. I’ll send it shortly along with the onboarding roadmap. Once signed, our architects will hold a two-day workshop to finalize timelines.
+
+Mr. Mehta: Please send it over today. Let’s plan for a kick-off early next week, if possible.
+
+Raj: Consider it done. We’re excited to partner with Alpha Logistics on this migration.
+
+-----------------
+END OF CALL
